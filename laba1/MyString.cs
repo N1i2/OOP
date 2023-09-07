@@ -12,6 +12,15 @@ namespace Worcks
             string howWorlde = "how are you";
             string byby = "goodbye see you later";
 
+            if (hello == howWorlde)
+                Console.WriteLine("yes");
+            else
+                Console.WriteLine("no");
+
+            Console.WriteLine(hello.CompareTo(howWorlde));
+            Console.WriteLine(howWorlde.CompareTo(howWorlde));
+            Console.WriteLine(howWorlde.CompareTo(hello));
+
             //конкотенация
             string greetings = hello + ' ' + howWorlde;
             Console.WriteLine(greetings);
@@ -19,7 +28,7 @@ namespace Worcks
             string by = string.Copy(byby);
             Console.WriteLine(by);
             //ввыделение подстройки
-            Console.WriteLine(howWorlde.IndexOf("are"));
+            Console.WriteLine(howWorlde.Substring(4, 3));
             //разделение на слова
             string[] worlds = greetings.Split(new char[] { ' ' });
 
@@ -27,8 +36,9 @@ namespace Worcks
             {
                 Console.WriteLine(item);
             }
-            //встака 
-            byby = byby.Insert(7, " world");
+            //встака спереди
+            byby.Insert(0, "_");
+            byby.Insert(byby.Length, " world");
             Console.WriteLine(byby);
             //yдоление
             byby = byby.Remove(13);
@@ -37,6 +47,11 @@ namespace Worcks
             //пустая и нулевая страка
             string emptyString = string.Empty;
             string nullString = null;
+
+            if(emptyString==nullString)
+                Console.WriteLine("yes");
+            else
+                Console.WriteLine("no");
 
             Console.WriteLine(string.IsNullOrEmpty(emptyString));
             Console.WriteLine(string.IsNullOrEmpty(nullString));

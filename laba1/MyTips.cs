@@ -23,14 +23,13 @@ namespace Worcks
             uint mUNumb = 100;
 
             long lon = 9000;
-            ulong uLlon = 9000;
 
             decimal dec = 1000.1M;
             double dbl = 100.1d;
 
             object ne = 45d;
 
-            uLlon = (ulong)(bit + mBit + shrt + mShrt - (double)dec + mUNumb + lon - dbl);
+            ulong uLlon = (ulong)(bit + mBit + shrt + mShrt - (double)dec + mUNumb + lon - dbl);
 
             ShowDataTips(numb: numb, hello: hello, simble: mi, check: logikValue, value: drobNumber);
             Console.WriteLine();
@@ -56,7 +55,7 @@ namespace Worcks
             Console.WriteLine(Convert.ToInt32(Convert.ToString(nine)) + 5);
 
             //пятый
-            Console.WriteLine(Convert.ToString(nine) + 0);
+            Console.WriteLine(Convert.ToDouble(Convert.ToString(nine))/2);
 
             //неявное преобразование
             //первое
@@ -87,7 +86,7 @@ namespace Worcks
                 Console.WriteLine(item);
             }
 
-            //nullable      !!!!
+            //nullable
             int? newNumb = null;
             Console.WriteLine(newNumb);
             //var 
@@ -100,6 +99,7 @@ namespace Worcks
         static void ShowDataTips(int numb, string hello, char simble, bool check, float value)
         {
             Console.WriteLine($"int: {numb} \nstring: {hello} \nchar: {simble} \nbool: {check} \ndouble: {value}");
+            Console.WriteLine("int: {0} \nstring: {1} \nchar: {2} \nbool: {3} \ndouble: {4}", numb, hello, simble, check, value);
         }
 
         static void WriteDataTips(ref int numb, ref string hello, ref char simble, ref bool check, ref float value)
