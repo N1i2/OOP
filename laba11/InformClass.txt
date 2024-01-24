@@ -1,0 +1,28 @@
+
+=======Протокол за 11/8/2023 8:33:28 PM=======
+
+Класс находится в сборке: laba11
+У класса есть открытые конструкторы
+
+ВСЕ ОТКРЫТЫЕ МЕТОДЫ
+get_hello
+Hello
+Add
+Delete
+Show
+CompareTo
+Equals
+GetHashCode
+GetType
+ToString
+
+ВСЕ СВОЙСТВА И ПОЛЯ
+hello
+five
+<hello>k__BackingField
+goodBy
+schet
+
+ВСЕ РЕАЛИЗУЕМЫЕ ИНТЕРФЕЙСЫ
+IMetods
+IComparable

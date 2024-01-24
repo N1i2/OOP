@@ -1,0 +1,14 @@
+E:\универ\OOP\laba14!\laba14\laba14\bin\Debug\laba14.exe.config
+E:\универ\OOP\laba14!\laba14\laba14\bin\Debug\laba14.exe
+E:\универ\OOP\laba14!\laba14\laba14\bin\Debug\laba14.pdb
+E:\универ\OOP\laba14!\laba14\laba14\obj\Debug\laba14.csproj.AssemblyReference.cache
+E:\универ\OOP\laba14!\laba14\laba14\obj\Debug\laba14.csproj.CoreCompileInputs.cache
+E:\универ\OOP\laba14!\laba14\laba14\obj\Debug\laba14.exe
+E:\универ\OOP\laba14!\laba14\laba14\obj\Debug\laba14.pdb
+E:\универ\OOP\laba14+\laba14\laba14\bin\Debug\laba14.exe.config
+E:\универ\OOP\laba14+\laba14\laba14\bin\Debug\laba14.exe
+E:\универ\OOP\laba14+\laba14\laba14\bin\Debug\laba14.pdb
+E:\универ\OOP\laba14+\laba14\laba14\obj\Debug\laba14.csproj.AssemblyReference.cache
+E:\универ\OOP\laba14+\laba14\laba14\obj\Debug\laba14.csproj.CoreCompileInputs.cache
+E:\универ\OOP\laba14+\laba14\laba14\obj\Debug\laba14.exe
+E:\универ\OOP\laba14+\laba14\laba14\obj\Debug\laba14.pdb

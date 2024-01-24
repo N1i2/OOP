@@ -1,0 +1,7 @@
+E:\универ\OOP\laba11!\laba11\laba11\bin\Debug\laba11.exe.config
+E:\универ\OOP\laba11!\laba11\laba11\bin\Debug\laba11.exe
+E:\универ\OOP\laba11!\laba11\laba11\bin\Debug\laba11.pdb
+E:\универ\OOP\laba11!\laba11\laba11\obj\Debug\laba11.csproj.AssemblyReference.cache
+E:\универ\OOP\laba11!\laba11\laba11\obj\Debug\laba11.csproj.CoreCompileInputs.cache
+E:\универ\OOP\laba11!\laba11\laba11\obj\Debug\laba11.exe
+E:\универ\OOP\laba11!\laba11\laba11\obj\Debug\laba11.pdb

@@ -1,0 +1,14 @@
+E:\универ\OOP\laba19-20!\test\test\bin\Debug\net7.0\test.exe
+E:\универ\OOP\laba19-20!\test\test\bin\Debug\net7.0\test.deps.json
+E:\универ\OOP\laba19-20!\test\test\bin\Debug\net7.0\test.runtimeconfig.json
+E:\универ\OOP\laba19-20!\test\test\bin\Debug\net7.0\test.dll
+E:\универ\OOP\laba19-20!\test\test\bin\Debug\net7.0\test.pdb
+E:\универ\OOP\laba19-20!\test\test\obj\Debug\net7.0\test.GeneratedMSBuildEditorConfig.editorconfig
+E:\универ\OOP\laba19-20!\test\test\obj\Debug\net7.0\test.AssemblyInfoInputs.cache
+E:\универ\OOP\laba19-20!\test\test\obj\Debug\net7.0\test.AssemblyInfo.cs
+E:\универ\OOP\laba19-20!\test\test\obj\Debug\net7.0\test.csproj.CoreCompileInputs.cache
+E:\универ\OOP\laba19-20!\test\test\obj\Debug\net7.0\test.dll
+E:\универ\OOP\laba19-20!\test\test\obj\Debug\net7.0\refint\test.dll
+E:\универ\OOP\laba19-20!\test\test\obj\Debug\net7.0\test.pdb
+E:\универ\OOP\laba19-20!\test\test\obj\Debug\net7.0\test.genruntimeconfig.cache
+E:\универ\OOP\laba19-20!\test\test\obj\Debug\net7.0\ref\test.dll

@@ -1,0 +1,38 @@
+[
+  {
+    "Usebl": false,
+    "MaxPlace": 1,
+    "AportClass": 1,
+    "ClientTime": "",
+    "Place": 0,
+    "EndPrice": 0,
+    "Name": ""
+  },
+  {
+    "Usebl": false,
+    "MaxPlace": 2,
+    "AportClass": 2,
+    "ClientTime": "",
+    "Place": 0,
+    "EndPrice": 0,
+    "Name": ""
+  },
+  {
+    "Usebl": false,
+    "MaxPlace": 3,
+    "AportClass": 3,
+    "ClientTime": "",
+    "Place": 0,
+    "EndPrice": 0,
+    "Name": ""
+  },
+  {
+    "Usebl": false,
+    "MaxPlace": 4,
+    "AportClass": 4,
+    "ClientTime": "",
+    "Place": 0,
+    "EndPrice": 0,
+    "Name": ""
+  }
+]

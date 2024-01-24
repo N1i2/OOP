@@ -1,0 +1,14 @@
+E:\универ\OOP\laba10!\laba10\laba10\bin\Debug\laba10.exe.config
+E:\универ\OOP\laba10!\laba10\laba10\bin\Debug\laba10.exe
+E:\универ\OOP\laba10!\laba10\laba10\bin\Debug\laba10.pdb
+E:\универ\OOP\laba10!\laba10\laba10\obj\Debug\laba10.csproj.AssemblyReference.cache
+E:\универ\OOP\laba10!\laba10\laba10\obj\Debug\laba10.csproj.CoreCompileInputs.cache
+E:\универ\OOP\laba10!\laba10\laba10\obj\Debug\laba10.exe
+E:\универ\OOP\laba10!\laba10\laba10\obj\Debug\laba10.pdb
+E:\универ\OOP\laba10+\laba10\laba10\bin\Debug\laba10.exe.config
+E:\универ\OOP\laba10+\laba10\laba10\bin\Debug\laba10.exe
+E:\универ\OOP\laba10+\laba10\laba10\bin\Debug\laba10.pdb
+E:\универ\OOP\laba10+\laba10\laba10\obj\Debug\laba10.csproj.AssemblyReference.cache
+E:\универ\OOP\laba10+\laba10\laba10\obj\Debug\laba10.csproj.CoreCompileInputs.cache
+E:\универ\OOP\laba10+\laba10\laba10\obj\Debug\laba10.exe
+E:\универ\OOP\laba10+\laba10\laba10\obj\Debug\laba10.pdb

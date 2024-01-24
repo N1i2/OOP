@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Sea>
+    <Name>hello</Name>
+    <Depth>500</Depth>
+  </Sea>
+  <Sea>
+    <Name>byby</Name>
+    <Depth>333</Depth>
+  </Sea>
+  <Sea>
+    <Name>Good By</Name>
+    <Depth>1200</Depth>
+  </Sea>
+  <Sea>
+    <Name>bingo</Name>
+    <Depth>101</Depth>
+  </Sea>
+</Root>

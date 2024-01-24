@@ -1,0 +1,14 @@
+E:\универ\OOP\laba16!\laba16\laba16\bin\Debug\net7.0\laba16.exe
+E:\универ\OOP\laba16!\laba16\laba16\bin\Debug\net7.0\laba16.deps.json
+E:\универ\OOP\laba16!\laba16\laba16\bin\Debug\net7.0\laba16.runtimeconfig.json
+E:\универ\OOP\laba16!\laba16\laba16\bin\Debug\net7.0\laba16.dll
+E:\универ\OOP\laba16!\laba16\laba16\bin\Debug\net7.0\laba16.pdb
+E:\универ\OOP\laba16!\laba16\laba16\obj\Debug\net7.0\laba16.GeneratedMSBuildEditorConfig.editorconfig
+E:\универ\OOP\laba16!\laba16\laba16\obj\Debug\net7.0\laba16.AssemblyInfoInputs.cache
+E:\универ\OOP\laba16!\laba16\laba16\obj\Debug\net7.0\laba16.AssemblyInfo.cs
+E:\универ\OOP\laba16!\laba16\laba16\obj\Debug\net7.0\laba16.csproj.CoreCompileInputs.cache
+E:\универ\OOP\laba16!\laba16\laba16\obj\Debug\net7.0\laba16.dll
+E:\универ\OOP\laba16!\laba16\laba16\obj\Debug\net7.0\refint\laba16.dll
+E:\универ\OOP\laba16!\laba16\laba16\obj\Debug\net7.0\laba16.pdb
+E:\универ\OOP\laba16!\laba16\laba16\obj\Debug\net7.0\laba16.genruntimeconfig.cache
+E:\универ\OOP\laba16!\laba16\laba16\obj\Debug\net7.0\ref\laba16.dll

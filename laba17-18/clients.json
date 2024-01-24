@@ -1,0 +1,19 @@
+[
+  {
+    "name": "hipe",
+    "MyRezerv": {
+      "Usebl": true,
+      "MaxPlace": 1,
+      "Aport": "A",
+      "HousFlat": "\u0414\u043E\u043C",
+      "ClientTime": "1\u043E\u043A\u0442\u044F\u0431\u0440\u044F ",
+      "Place": 1,
+      "EndPrice": 100,
+      "Name": "hipe",
+      "oldYeang": {
+        "Name": "\u0441\u0442\u0430\u0440\u044B\u0439"
+      },
+      "wifi": {}
+    }
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "uze": false,
+    "Uzebl": {},
+    "MaxPlace": 1,
+    "Aport": "A",
+    "HousFlat": "\u0414\u043E\u043C",
+    "ClientTime": "",
+    "Place": 0,
+    "EndPrice": 0,
+    "Name": "",
+    "oldYeang": {
+      "Name": "\u0441\u0442\u0430\u0440\u044B\u0439"
+    },
+    "wifi": {}
+  },
+  {
+    "uze": false,
+    "Uzebl": {},
+    "MaxPlace": 2,
+    "Aport": "B",
+    "HousFlat": "\u0414\u043E\u043C",
+    "ClientTime": "",
+    "Place": 0,
+    "EndPrice": 0,
+    "Name": "",
+    "oldYeang": {
+      "Name": "\u0441\u0442\u0430\u0440\u044B\u0439"
+    },
+    "wifi": null
+  },
+  {
+    "uze": true,
+    "Uzebl": {},
+    "MaxPlace": 3,
+    "Aport": "C",
+    "HousFlat": "\u0414\u043E\u043C",
+    "ClientTime": "12\u0434\u0435\u043A\u0430\u0431\u0440\u044F ",
+    "Place": 2,
+    "EndPrice": 600,
+    "Name": "hello",
+    "oldYeang": {
+      "Name": "\u043D\u043E\u0432\u044B\u0439"
+    },
+    "wifi": {}
+  },
+  {
+    "uze": true,
+    "Uzebl": {},
+    "MaxPlace": 4,
+    "Aport": "Luxe",
+    "HousFlat": "\u0414\u043E\u043C",
+    "ClientTime": "1\u044F\u043D\u0432\u0430\u0440\u044F ",
+    "Place": 4,
+    "EndPrice": 1600,
+    "Name": "ror",
+    "oldYeang": {
+      "Name": "\u043D\u043E\u0432\u044B\u0439"
+    },
+    "wifi": null
+  },
+  {
+    "uze": false,
+    "Uzebl": {},
+    "MaxPlace": 1,
+    "Aport": "A",
+    "HousFlat": "\u041A\u0432\u0430\u0440\u0442\u0438\u0440\u0430",
+    "ClientTime": "",
+    "Place": 0,
+    "EndPrice": 0,
+    "Name": "",
+    "oldYeang": {
+      "Name": "\u0441\u0442\u0430\u0440\u044B\u0439"
+    },
+    "wifi": {}
+  },
+  {
+    "uze": false,
+    "Uzebl": {},
+    "MaxPlace": 2,
+    "Aport": "B",
+    "HousFlat": "\u041A\u0432\u0430\u0440\u0442\u0438\u0440\u0430",
+    "ClientTime": "",
+    "Place": 0,
+    "EndPrice": 0,
+    "Name": "",
+    "oldYeang": {
+      "Name": "\u0441\u0442\u0430\u0440\u044B\u0439"
+    },
+    "wifi": null
+  },
+  {
+    "uze": false,
+    "Uzebl": {},
+    "MaxPlace": 3,
+    "Aport": "C",
+    "HousFlat": "\u041A\u0432\u0430\u0440\u0442\u0438\u0440\u0430",
+    "ClientTime": "",
+    "Place": 0,
+    "EndPrice": 0,
+    "Name": "",
+    "oldYeang": {
+      "Name": "\u043D\u043E\u0432\u044B\u0439"
+    },
+    "wifi": {}
+  },
+  {
+    "uze": false,
+    "Uzebl": {},
+    "MaxPlace": 4,
+    "Aport": "Luxe",
+    "HousFlat": "\u041A\u0432\u0430\u0440\u0442\u0438\u0440\u0430",
+    "ClientTime": "",
+    "Place": 0,
+    "EndPrice": 0,
+    "Name": "",
+    "oldYeang": {
+      "Name": "\u043D\u043E\u0432\u044B\u0439"
+    },
+    "wifi": null
+  },
+  {
+    "uze": false,
+    "Uzebl": {},
+    "MaxPlace": 1,
+    "Aport": "A",
+    "HousFlat": "\u0414\u043E\u043C",
+    "ClientTime": "",
+    "Place": 0,
+    "EndPrice": 0,
+    "Name": "",
+    "oldYeang": {
+      "Name": "\u0441\u0442\u0430\u0440\u044B\u0439"
+    },
+    "wifi": {}
+  }
+]
